@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Desktop/openjfx-17.0.15_windows-x64_bin-sdk.zip!/javafx-sdk-17.0.15/lib" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/openjfx-17.0.15_windows-x64_bin-sdk.zip!/javafx-sdk-17.0.15/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/openjfx-17.0.15_windows-x64_bin-sdk.zip!/javafx-sdk-17.0.15/lib" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Desktop/openjfx-17.0.15_windows-x64_bin-sdk.zip!/javafx-sdk-17.0.15/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/openjfx-17.0.15_windows-x64_bin-sdk.zip!/javafx-sdk-17.0.15/lib" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Desktop/openjfx-17.0.15_windows-x64_bin-sdk.zip!/javafx-sdk-17.0.15/lib" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Desktop/openjfx-17.0.15_windows-x64_bin-sdk.zip!/javafx-sdk-17.0.15/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

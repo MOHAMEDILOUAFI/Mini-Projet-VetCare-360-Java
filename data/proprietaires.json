@@ -1,0 +1,37 @@
+[
+  {
+    "nom": "Ilouafi",
+    "prenom": "Mohamed",
+    "adresse": "Selouane",
+    "ville": "Nador",
+    "telephone": "0612345678",
+    "animaux": [
+      {
+        "nom": "Alex",
+        "age": 3,
+        "type": "Chien",
+        "visites": [
+          {
+            "date": "2025-05-20",
+            "motif": "La bouche",
+            "veterinaire": "Ahmed Tabib"
+          }
+        ]
+      },
+      {
+        "nom": "Trex",
+        "age": 2,
+        "type": "Dinosor",
+        "visites": []
+      }
+    ]
+  },
+  {
+    "nom": "Ahmed",
+    "prenom": "Ahmed",
+    "adresse": "Ain dyab",
+    "ville": "Oujda",
+    "telephone": "0632154987",
+    "animaux": []
+  }
+]
